@@ -8,3 +8,4 @@ Checkout my blogs <a href="https://medium.com/@sumitvajarinkar">here</a>. 📖<b
 ● Data Structures and Algorithms (DSA)<br />
 ● Competitive Programming (CP)<br />
 ● Internet of Things (IoT)<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/rising-entropy/)
