@@ -2,7 +2,7 @@
 <h3 align="center">A technosavvian personality with a curious mind 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitvajarinkar&label=Profile%20views&color=0e75b6&style=flat" alt="sumitvajarinkar" /> </p>
-
+<img align="right" alt="Coding" width="400" src="dog_coder.jpg" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;">
 
 - 👨‍💻 All of my projects are available at [https://sumitvajarinkar.github.io/Portfolio/](https://sumitvajarinkar.github.io/Portfolio/)
 
