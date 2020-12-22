@@ -4,15 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitvajarinkar&label=Profile%20views&color=0e75b6&style=flat" alt="sumitvajarinkar" /> </p>
 <img align="right" alt="Coding" width="400" src="dog_coder.jpg" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;">
 
-- 👨‍🎓 Intro : **I'm a Second Year B.Tech. Computer Science & Information Technology undergraduate at Rajarambapu Institute of Technology, Rajaramnagar (An Autonomous Institute, MH-India).
+- 👨‍🎓 **Intro** : I'm a Second Year B.Tech. Computer Science & Information Technology undergraduate at Rajarambapu Institute of Technology, Rajaramnagar (An Autonomous Institute, MH-India).
 
-- 👨‍💻 Experience : **I have experience of working with Data Structures and Algorithms (CPP), Web Development (Full Stack), Object Oriented Programming in CPP, Linux OS.
+- 👨‍💻 **Experience** : I have experience of working with Data Structures and Algorithms (CPP), Web Development (Full Stack), Object Oriented Programming in CPP, Linux OS.
 
-- 🎯 **I always try to build some connection between me and the new technology that makes me perform better.🔍
+- 🎯 I always try to build some connection between me and the new technology that makes me perform better.🔍
 
-- 👨‍💻 **Checkout my Portfolio [https://sumitvajarinkar.github.io/Portfolio/](https://sumitvajarinkar.github.io/Portfolio/)
+- 👨‍💻 Checkout my Portfolio [https://sumitvajarinkar.github.io/Portfolio/](https://sumitvajarinkar.github.io/Portfolio/)
 
-- 📝 **I regulary write articles on [https://medium.com/@sumitvajarinkar](https://medium.com/@sumitvajarinkar)
+- 📝 I regulary write articles on [https://medium.com/@sumitvajarinkar](https://medium.com/@sumitvajarinkar)
 
 - 💬 Ask me about **C/C++, Data Structure And Algorithm**
 
