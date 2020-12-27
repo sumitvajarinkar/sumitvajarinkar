@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sumit Vajarinkar</h1>
 <h3 align="center">A technosavvian personality with a curious mind 👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitvajarinkar&label=Profile%20views&color=0e75b6&style=flat" alt="sumitvajarinkar"</p>
-<img align="right" alt="Coding" width="400" style="max-width:100%;">
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitvajarinkar&label=Profile%20views&color=129e00&style=plastic" alt="sumitvajarinkar" /> </p>
+<img align="right" width="400" src="dog_coder.jpg">
 
 - 👨‍🎓 **Intro** : I'm a Second Year B.Tech. Computer Science & Information Technology undergraduate at Rajarambapu Institute of Technology, Rajaramnagar (An Autonomous Institute, MH-India).
 
