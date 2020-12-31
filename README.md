@@ -6,7 +6,7 @@
 
 - 👨‍🎓 **Intro** : I'm a Second Year B.Tech. Computer Science & Information Technology undergraduate at Rajarambapu Institute of Technology, Rajaramnagar (An Autonomous Institute, MH-India).
 
-- 👨‍💻 **Experience** : I have experience of working with **Data Structures and Algorithms (CPP), Web Development (Full Stack), Object Oriented Programming in CPP, Linux OS.**
+- 👨‍💻 **Experience** : I have experience of working with **Data Structures and Algorithms (CPP), Web Development (Full Stack), Object Oriented Design and Programming in CPP, Linux / Windows OS.**
 
 - 🎯 I always try to build some connection between me and the new technology that makes me perform better.🔍
 
@@ -14,7 +14,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@sumitvajarinkar](https://medium.com/@sumitvajarinkar)
 
-- 💬 Ask me about **C/C++, Data Structure And Algorithm**
+- 💬 Ask me about **C/C++, Data Structure And Algorithm and Web Devlopment**
 
 - 📫 How to reach me **vajarinkarss@gmail.com**
 
