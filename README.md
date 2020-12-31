@@ -6,7 +6,7 @@
 
 - 👨‍🎓 **Intro** : I'm a Second Year B.Tech. Computer Science & Information Technology undergraduate at Rajarambapu Institute of Technology, Rajaramnagar (An Autonomous Institute, MH-India).
 
-- 👨‍💻 **Experience** : I have experience of working with **Data Structures and Algorithms (CPP), Web Development (Full Stack), Object Oriented Design and Programming in CPP, Linux / Windows OS.**
+- 👨‍💻 **Experience** : I have experience of working with **Data Structures and Algorithms (CPP), Web Development (Full Stack), Object Oriented Design and Programming (CPP), Linux / Windows (OS).**
 
 - 🎯 I always try to build some connection between me and the new technology that makes me perform better.🔍
 
