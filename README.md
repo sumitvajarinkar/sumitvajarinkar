@@ -6,13 +6,15 @@
         alt="sumitvajarinkar" /> </p>
 <img align="right" width="400" src="dog_coder.jpg">
 
-- 👨‍🎓 **Intro** : I'm a Second Year B.Tech. Computer Science & Information Technology undergraduate at Rajarambapu
-Institute of Technology, Rajaramnagar (An Autonomous Institute, MH-India).
+- 👨‍🎓 **Intro** : Hello, I am a Second Year undergraduate student pursuing B. Tech. in Computer Science & Information Technology at Rajarambapu Institute of Technology, Rajaramnagar (An Autonomous Institute, MH-India).
 
-- 👨‍💻 **Experience** : I have experience of working with **Data Structures and Algorithms (CPP), Web Development (Full
-Stack), Object Oriented Design and Programming (CPP), Linux / Windows (OS).**
+- 👨‍💻 **Experience** : I have experience of working with <br>
+◼ **Data Structures and Algorithms (CPP)** <br>
+◼ **Web Development (Full-Stack)**<br>
+◼ **Object Oriented Design and Programming (CPP)**<br>
+◼ **Linux / Windows (OS)**<br>
 
-- 🎯 I always try to build some connection between me and the new technology that makes me perform better.🔍
+- 🎯 I always welcome to new people as well as new technology it helps me to build new perspective for explore things.🔍
 
 - 👨‍💻 Checkout my Portfolio
 [https://sumitvajarinkar.github.io/Portfolio/](https://sumitvajarinkar.github.io/Portfolio/)
