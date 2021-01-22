@@ -13,7 +13,7 @@
 
 - 👨‍💻 **Experience** : I have experience of working with <br>
 ◼ **Data Structures and Algorithms (CPP)** <br>
-◼ **Web Development (Full-Stack)**<br>
+◼ **Web Development**<br>
 ◼ **Object Oriented Design and Programming (CPP)**<br>
 ◼ **Linux / Windows (OS)**<br>
 
