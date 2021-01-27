@@ -17,7 +17,7 @@
 ◼ **Object Oriented Design and Programming (CPP)**<br>
 ◼ **Linux / Windows (OS)**<br>
 
-- 🎯  I always excited for new people as well as technologies that help both to build diverse perspectives to explore new things.
+- 🎯  I always excited for new people as well as technologies that help both to build diverse perspectives to explore new things.<br>
        Besides professional life, I would lean towards trekking, sports and also trying to help needy people, provides me immense 
         mindset to overcome difficulties in front of me.🔍
 
