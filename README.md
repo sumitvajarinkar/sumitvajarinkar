@@ -17,12 +17,14 @@
 ◼ **Object Oriented Design and Programming (CPP)**<br>
 ◼ **Linux / Windows (OS)**<br>
 
-- 🎯 I always welcome to new people as well as new technology it helps me to build new perspective for explore things.🔍
+- 🎯  I always excited for new people as well as technologies that help both to build diverse perspectives to explore new things.
+       Besides professional life, I would lean towards trekking, sports and also trying to help needy people, provides me immense 
+        mindset to overcome difficulties in front of me.🔍
 
 - 👨‍💻 Checkout my Portfolio
-[https://sumitvajarinkar.github.io/Portfolio/](https://sumitvajarinkar.github.io/Portfolio/)
+<a href="https://sumitvajarinkar.github.io/Portfolio/">Click here !</a>
 
-- 📝 I regulary write articles on [https://medium.com/@sumitvajarinkar](https://medium.com/@sumitvajarinkar)
+- 📝 Here I wrote some blogs <a href="https://medium.com/@sumitvajarinka">Click here !</a>
 
 - 💬 Ask me about **C/C++, Data Structure And Algorithm and Web Devlopment**
 
