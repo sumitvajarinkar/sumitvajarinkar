@@ -44,10 +44,6 @@
     <a href="https://www.leetcode.com/vajarinkarss" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vajarinkarss" height="30"
             width="40" /></a>
-    <a href="https://medium.com/@sumitvajarinkar" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sumitvajarinkar" height="30"
-            width="40" /></a>
-    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
