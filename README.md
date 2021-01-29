@@ -35,27 +35,19 @@
     <a href="https://linkedin.com/in/sumitvajarinkar" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sumitvajarinkar" height="30"
             width="40" /></a>
-    <a href="https://medium.com/@sumitvajarinkar" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sumitvajarinkar" height="30"
-            width="40" /></a>
-    <a href="https://www.codechef.com/users/vsumit17" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vsumit17" height="30"
+    <a href="https://auth.geeksforgeeks.org/user/vsumit17" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="vsumit17" height="30"
             width="40" /></a>
     <a href="https://www.hackerrank.com/vsumit17" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vsumit17" height="30"
             width="40" /></a>
-    <a href="https://codeforces.com/profile/vsumit" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="vsumit" height="30"
-            width="40" /></a>
     <a href="https://www.leetcode.com/vajarinkarss" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vajarinkarss" height="30"
             width="40" /></a>
-    <a href="https://www.hackerearth.com/sumit2190" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="sumit2190" height="30"
+    <a href="https://medium.com/@sumitvajarinkar" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sumitvajarinkar" height="30"
             width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/vsumit17" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="vsumit17" height="30"
-            width="40" /></a>
+    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
