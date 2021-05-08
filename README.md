@@ -22,7 +22,7 @@
         mindset to overcome difficulties in front of me.🔍
 
 - 👨‍💻 Checkout my Portfolio
-<a href="https://sumitvajarinkar.github.io/Portfolio/" target="_blank">Click here !</a>
+<a href="https://sumitportfolio.netlify.app/" target="_blank">Click here !</a>
 
 - 📝 Here I wrote some blogs <a href="https://medium.com/@sumitvajarinkar" target="_blank">Click here !</a>
 
