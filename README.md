@@ -26,7 +26,7 @@
 
 - 📝 Here I wrote some blogs <a href="https://medium.com/@sumitvajarinkar" target="_blank">Click here !</a>
 
-- 💬 Ask me about **C/C++, Data Structure And Algorithm and Web Devlopment**
+- 💬 Ask me about **C/C++, Data Structure And Algorithm and Web Development**
 
 - 📫 How to reach me **vajarinkarss@gmail.com**
 
