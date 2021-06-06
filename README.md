@@ -7,7 +7,7 @@
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=sumitvajarinkar&label=Profile%20views&color=129e00&style=plastic"
         alt="sumitvajarinkar" /> </p>
-<img align="right" width="400" src="dog_coder.jpg">
+<img align="right" width="400" margin="1" src="dog_coder.jpg">
 
 - 👨‍🎓 **Intro** : Hello, I am a Second Year undergraduate student pursuing B. Tech. in Computer Science & Information Technology at Rajarambapu Institute of Technology, Rajaramnagar (An Autonomous Institute, MH-India).
 
@@ -17,9 +17,7 @@
 ◼ **Object Oriented Design and Programming (CPP)**<br>
 ◼ **Linux / Windows (OS)**<br>
 
-- 🎯  I always excited for new people as well as technologies that help both to build diverse perspectives to explore new things.<br>
-       Besides professional life, I would lean towards trekking, sports and also trying to help needy people, provides me immense 
-        mindset to overcome difficulties in front of me.🔍
+- 🎯 Connect for collaboration...🤝
 
 - 👨‍💻 Checkout my Portfolio
 <a href="https://sumitportfolio.netlify.app/" target="_blank">Click here !</a>
