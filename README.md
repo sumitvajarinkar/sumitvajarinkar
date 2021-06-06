@@ -7,7 +7,7 @@
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=sumitvajarinkar&label=Profile%20views&color=129e00&style=plastic"
         alt="sumitvajarinkar" /> </p>
-<img align="right" width="400" margin="1" src="dog_coder.jpg">
+<img align="right" width="400" margin-bottom="1" src="dog_coder.jpg">
 
 - 👨‍🎓 **Intro** : Hello, I am a Second Year undergraduate student pursuing B. Tech. in Computer Science & Information Technology at Rajarambapu Institute of Technology, Rajaramnagar (An Autonomous Institute, MH-India).
 
