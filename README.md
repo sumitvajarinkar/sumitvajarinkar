@@ -27,11 +27,10 @@ alt="sumitvajarinkar" /> </p>
 - 📫 How to reach me **vajarinkarss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sumitvajarinkar" target="_blank"><img align="center"
-    src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="sumitvajarinkar" height="40"
-    width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/sumitvajarinkar/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/93ca47e21e17f622a41d26d599e008e4c30b8a322186f18019bc43d54f57b0c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;">
+  </a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -50,6 +49,7 @@ alt="sumitvajarinkar" /> </p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript" width="40" height="40" /> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"             width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
     width="40" height="40" /> </a>
