@@ -9,11 +9,11 @@ src="https://komarev.com/ghpvc/?username=sumitvajarinkar&label=Profile%20views&c
 alt="sumitvajarinkar" /> </p>
 <img align="right" width="400" style="margin:5px" src="dog_coder.jpg">
 
-- 👨‍🎓 **Intro** :<br> Hey, I am a Computer Science & Information Technology student at Rajarambapu Institute of Technology, Maharashtra(An Autonomous Institute), currently in my 2nd year.<br>
+- 👨‍🎓 **Intro** :<br> Hey, I am a Pre final year student from Computer Science & Information Technology<br>
 
 - 👨‍💻 **Experience** :<br> I have experience of working with <br>
 ◼ **Data Structures and Algorithms (CPP)** <br>
-◼ **Web Development - MERN**<br>
+◼ **Web Development - MERN (Familiar)**<br>
 ◼ **Object Oriented Design and Programming (CPP)**<br>
 ◼ **Linux / Windows (OS)**<br>
 
@@ -63,6 +63,8 @@ alt="sumitvajarinkar" /> </p>
     width="40" height="40" /> </a>
 </p>
 
-<p><img align="left"
+<span><img align="left"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitvajarinkar&show_icons=true&locale=en&layout=compact"
-alt="sumitvajarinkar" /></p>
+alt="sumitvajarinkar" /></span>
+
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitvajarinkar&show_icons=true&locale=en" alt="sumitvajarinkar" /></span>
