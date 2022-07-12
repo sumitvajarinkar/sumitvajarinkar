@@ -1,7 +1,7 @@
-<h2><a id="user-content" class="anchor" aria-hidden="true" href="#hi"></a> Hi, I'm Sumit !<img
+<h2><a id="user-content" class="anchor" aria-hidden="true" href="#hi"></a><img
     src="https://media4.giphy.com/media/ujrj9aoOdNvXO/200w.webp?cid=ecf05e47jrjwamzhe80kct51tclqqo69iwnxhjkyh7syb2of&rid=200w.webp"
-    width="100" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
-    style="max-width:100%;"></a></h2>
+    width="100" height="100" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
+    style="max-width:100%;"></a>Sumit here !</h2>
 <h3 align="center">A technosavvian personality with a curious mind 👨‍💻</h3>
 
 <p align="left"> <img
