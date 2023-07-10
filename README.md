@@ -9,11 +9,11 @@ src="https://komarev.com/ghpvc/?username=sumitvajarinkar&label=Profile%20views&c
 alt="sumitvajarinkar" /> </p>
 <img align="right" width="400" style="margin:5px" src="dog_coder.jpg">
 
-- 👨‍🎓 **Intro** :<br> Hey, I am a Final year student from Computer Science & Information Technology. Currently, I am exploring MERN stack for Web Development.<br>
+- 👨‍🎓 **Intro** :<br>I'm Sumit, a passionate frontend web developer who loves building responsive and user centric web applications. Currently learning React.JS JavaScript frontend library.<br>
 
 - 👨‍💻 **Experience** :<br> I have experience of working with <br>
 ◼ **Data Structures and Algorithms (CPP)** <br>
-◼ **Frontend Web Development - React**<br>
+◼ **Frontend Web Development - React.JS**<br>
 ◼ **Object Oriented Design and Programming (CPP)**<br>
 ◼ **Linux / Windows (OS)**<br>
 
