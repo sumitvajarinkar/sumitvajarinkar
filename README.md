@@ -13,7 +13,7 @@ alt="sumitvajarinkar" /> </p>
 
 - 👨‍💻 **Experience** :<br> I have experience of working with <br>
 ◼ **Data Structures and Algorithms (CPP)** <br>
-◼ **Web Development - MERN (Familiar)**<br>
+◼ **Frontend Web Development - React**<br>
 ◼ **Object Oriented Design and Programming (CPP)**<br>
 ◼ **Linux / Windows (OS)**<br>
 
